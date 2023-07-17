@@ -9,7 +9,7 @@ import os        # OS functions
 
 
 # Bot token to use
-Token = "Your Token here"
+Token = "6358938683:AAH39To488EJCm-0CPSZDpIEP3X-36Izw-0"
 
 
 # Escape markdown filter
